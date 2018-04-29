@@ -4,6 +4,7 @@ title:  "Notes for Week 9 Recommender Systems"
 date:   2016-06-30
 categories: machine-learning
 mathjax: true
+img: software.jpg
 ---
 这篇文章是我对[Coursera](coursera.org)上的课程[Machine Learning](https://www.coursera.org/learn/machine-learning/)
 的总结，第九周后半部分有关[Recommender Systems](https://en.wikipedia.org/wiki/Recommender_system)的内容。该课程由著名的机器学习专家[Andrew Ng](http://www.andrewng.org/)授课，是非常适合入门机器学习的课程。

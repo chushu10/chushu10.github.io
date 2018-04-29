@@ -3,6 +3,7 @@ layout: post
 title: "二叉树的层序遍历"
 date: 2018-03-20
 categories: algorithm
+img: level_order_traversal.png
 ---
 
 ### 这一题怎样用一句话描述？
