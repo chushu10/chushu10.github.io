@@ -3,9 +3,6 @@ layout: main
 ---
 <article class="article-page">
   <div class="page-content">
-    {% if page.mathjax %}
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-    {% endif %}
     {% if page.img %}
     <div class="page-cover-image">
       <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
