@@ -3,6 +3,7 @@ layout: post
 title: "Example: Polynomial Curve Fitting"
 date: 2016-04-26
 categories: machine-learning
+mathjax: true
 ---
 这篇文章是我对[*Pattern Recognition and Machine Learning*](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)这本书的读书总结，第一章第一节的内容。这本教材是一本机器学习的入门教材，其经典程度不亚于[*Computer Networks*](https://www.pearsonhighered.com/program/Tanenbaum-Computer-Networks-5th-Edition/PGM270019.html)之于计算机网络。由于以后自己非常想要从事数据挖掘方面的工作，所以从现在开始就要阅读经典，总结经典。
 
