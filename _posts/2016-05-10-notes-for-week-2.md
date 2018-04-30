@@ -4,6 +4,7 @@ title:  "Notes for Week 2"
 date:   2016-05-10
 categories: machine-learning
 mathjax: true
+img: machine_learning/linear_regression.jpg
 ---
 这篇文章是我对[Coursera](coursera.org)上的课程[Machine Learning](https://www.coursera.org/learn/machine-learning/)
 的总结，第二周的内容。该课程由著名的机器学习专家[Andrew Ng](http://www.andrewng.org/)授课，是非常适合入门机器学习的课程。
