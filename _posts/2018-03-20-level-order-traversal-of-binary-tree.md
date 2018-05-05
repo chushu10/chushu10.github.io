@@ -17,7 +17,7 @@ Using BFS (Breadth-First Search) to traverse the binary tree in level order.
 
 For example, as the binary tree showed in the graph below:
 
-![level order traversal]({{site.baseurl}}/assets/img/algorithm/level_order.png
+![level order traversal]({{site.baseurl}}/assets/img/algorithm/level_order.png)
 
 The level order traversal of this binary tree should be:
 
