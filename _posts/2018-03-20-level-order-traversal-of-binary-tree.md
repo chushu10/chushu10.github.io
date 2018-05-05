@@ -3,7 +3,7 @@ layout: post
 title: "Level Order Traversal of Binary Tree"
 date: 2018-03-20
 categories: algorithm
-img: algorithm/queue.png
+img: algorithm/queue.jpg
 ---
 
 ### How to summarize this question in one sentence？
