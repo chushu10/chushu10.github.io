@@ -11,7 +11,7 @@ Pattern matching sets some global variables :
 
 - `$~` is equivalent to ::last_match;
 - `$&` contains the complete matched text;
-- `$`` contains string before match;
+- ``$``` contains string before match;
 - `$'` contains string after match;
 - `$1, $2` and so on contain text matching first, second, etc capture group;
 - `$+` contains last capture group.
