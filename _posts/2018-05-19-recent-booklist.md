@@ -9,4 +9,4 @@ categories: Booklist
 - [摆渡人](https://book.douban.com/subject/26356948/)
 - [乌克兰拖拉机简史](https://book.douban.com/subject/6879215/)
 - [Life 3.0](https://book.douban.com/subject/27125413/)
-- [Design Pattern](https://book.douban.com/subject/1436745/)
+- [Design Patterns](https://book.douban.com/subject/1436745/)
