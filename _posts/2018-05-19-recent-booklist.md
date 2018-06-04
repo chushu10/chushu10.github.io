@@ -10,3 +10,4 @@ categories: Booklist
 - [乌克兰拖拉机简史](https://book.douban.com/subject/6879215/)
 - [Life 3.0](https://book.douban.com/subject/27125413/)
 - [Design Patterns](https://book.douban.com/subject/1436745/)
+- [C++ Primer](https://book.douban.com/subject/24089577/)
