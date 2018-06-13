@@ -2,10 +2,8 @@
 layout: post
 title: "《设计模式》读书笔记之一"
 date: 2018-06-03
-categories: Booklist
+categories: book review
 ---
-
-# 《设计模式》读书笔记之一
 
 最近在读[Design Patterns](https://book.douban.com/subject/1436745/)，有一些关键点需要多多理解，细细琢磨。
 
