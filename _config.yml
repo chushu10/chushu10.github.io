@@ -1,7 +1,7 @@
 title: Hello, world! I'm Chushu Liu
 description: > # this means to ignore newlines until "baseurl:"
   Software engineer from Huawei Technology Inc. My interests
-  are netconf protocol, artificial intelligence, algorithms and continuous integration
+  are Spring framework, Design patterns, etc.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,9 +11,9 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Chushu Liu # add your name
 author-img: liuchushu.jpeg # add your photo
 about-author: Software engineer from Huawei Technology Inc. # add description
-#social-twitter: # add your Twitter handle
-social-facebook: choosue.liu # add your Facebook handle
-social-github: Choosue # add your Github handle
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: chushu10 # add your Github handle
 social-linkedin: in/chushu-liu-47a6a1112/ # add your Linkedin handle
 social-email: liuchushu10@gmail.com # add your Email address
 
